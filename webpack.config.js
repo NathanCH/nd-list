@@ -1,5 +1,6 @@
-var webpack = require('webpack');
 var path = require('path');
+var webpack = require('webpack');
+var ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 var APP_DIR = path.resolve(__dirname, 'src');
 var BUILD_DIR = path.resolve(__dirname, 'build');
@@ -22,6 +23,10 @@ var config = {
 						'es2015'
 					]
 				}
+			},
+			{
+				test: /\.scss$/,
+				loader: ExtractTextPlugin.extract('css-loader!sass-loader')
 			}
 		]
 	},
@@ -38,7 +43,8 @@ var config = {
 			compressor: {
 				warnings: false
 			}
-		})
+		}),
+		new ExtractTextPlugin('styles.css')
 	]
 }
 
