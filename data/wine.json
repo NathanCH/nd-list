@@ -1,0 +1,1042 @@
+[
+    {
+        "id": 54457,
+        "price": 21.99,
+        "producer": "hiddenchapel",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "style": "White",
+        "slug": "2014-st-vincent",
+        "year": "2014",
+        "name": "St. Vincent",
+        "searchName": "St. Vincent",
+        "seoTitle": "St. Vincent",
+        "seoDescription": "",
+        "volume": 750,
+        "awards": [],
+        "drinking": {
+            "bottleFormat": [
+                "Standard"
+            ]
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [
+            "Blend"
+        ],
+        "typeOfGlass": [
+            "Standard White Wine"
+        ],
+        "pairings": {
+            "occasions": [],
+            "foods": [
+                "Fish",
+                "Seafood",
+                "White Fish",
+                "Cream Sauce",
+                "Chicken"
+            ]
+        },
+        "tastingNotesTags": [
+            "Green Apple",
+            "Pear",
+            "Spice"
+        ],
+        "varieties": [
+            "Riesling",
+            "Viognier"
+        ],
+        "appellations": [
+            "Okanagan Valley"
+        ],
+        "regions": [
+            "Okanagan Falls (North Oliver)"
+        ],
+        "description": {
+            "html": "<p>Hidden Chapel’s Patron saint of wine, the St. Vincent 2014, is a divine blend of Riesling (70%) and Viognier (30%). Sweet aromas lead to flavours of green apple, pear and spice on the palate. This vintage goes great with fish, seafood and chicken dishes.</p>\n",
+            "md": "Hidden Chapel’s Patron saint of wine, the St. Vincent 2014, is a divine blend of Riesling (70%) and Viognier (30%). Sweet aromas lead to flavours of green apple, pear and spice on the palate. This vintage goes great with fish, seafood and chicken dishes."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/default-white-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/bottle/default-white-wine.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/default-white-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/banner/default-white-wine.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "hasPrice": true,
+        "priceRange": "Below $25",
+        "sku": {
+            "bcSku": "",
+            "scc": "",
+            "upc": ""
+        },
+        "quantStyle": [],
+        "total_on_hand": 2,
+        "old_total_on_hand": 2,
+        "stock_count": {
+            "default": 2,
+            "other": 0
+        }
+    },
+    {
+        "id": 54456,
+        "price": 35.99,
+        "producer": "hiddenchapel",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "style": "Red",
+        "slug": "2011-trilogy",
+        "year": "2011",
+        "name": "Trilogy",
+        "searchName": "Trilogy",
+        "seoTitle": "Trilogy",
+        "seoDescription": "Hidden Chapel, based in Oliver BC, makes the Trilogy 2011, a meritage style blend of Cabernet Sauvignon, Merlot and Petit Verdot. Berry, spice, and tannins.",
+        "volume": 750,
+        "awards": [],
+        "drinking": {
+            "bottleFormat": [
+                "Standard"
+            ]
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [
+            "Blend"
+        ],
+        "typeOfGlass": [
+            "Standard Red Wine"
+        ],
+        "pairings": {
+            "occasions": [],
+            "foods": [
+                "Steak",
+                "Mushrooms",
+                "Game",
+                "Veal"
+            ]
+        },
+        "tastingNotesTags": [
+            "Berry",
+            "Spice"
+        ],
+        "varieties": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Petit Verdot"
+        ],
+        "appellations": [
+            "Okanagan Valley"
+        ],
+        "regions": [
+            "Okanagan Falls (North Oliver)"
+        ],
+        "description": {
+            "html": "<p>Trilogy 2011 by Hidden Chapel is a meritage style blend of Cabernet Sauvignon (55%), Merlot (35%) and Petit Verdot (10%). Structure, depth and great aging potential is the winning trifecta with this vintage. Rich berry, spice and tannins on the award winning palate makes the Trilogy 2011 a can’t miss.</p>\n",
+            "md": "Trilogy 2011 by Hidden Chapel is a meritage style blend of Cabernet Sauvignon (55%), Merlot (35%) and Petit Verdot (10%). Structure, depth and great aging potential is the winning trifecta with this vintage. Rich berry, spice and tannins on the award winning palate makes the Trilogy 2011 a can’t miss."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/default-red-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/bottle/default-red-wine.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/default-red-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/banner/default-red-wine.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "hasPrice": true,
+        "priceRange": "$35-$50",
+        "sku": {
+            "bcSku": "",
+            "scc": "",
+            "upc": ""
+        },
+        "quantStyle": [],
+        "total_on_hand": 24,
+        "old_total_on_hand": 24,
+        "stock_count": {
+            "default": 24,
+            "other": 0
+        }
+    },
+    {
+        "id": 54455,
+        "price": 32.99,
+        "producer": "hiddenchapel",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "style": "Red",
+        "slug": "2012-holy-smoke",
+        "year": "2012",
+        "name": "Holy Smoke",
+        "searchName": "Holy Smoke",
+        "seoTitle": "Holy Smoke",
+        "seoDescription": "Hidden Chapel, located in Oliver BC, makes the versatile Holy Smoke 2012 that combines Malbec and Merlot. Smokey aromas lead to plum and blackberry flavours.",
+        "volume": 750,
+        "awards": [],
+        "drinking": {
+            "bottleFormat": []
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [
+            "Blend"
+        ],
+        "typeOfGlass": [
+            "Standard Red Wine"
+        ],
+        "pairings": {
+            "occasions": [],
+            "foods": [
+                "BBQ",
+                "Lamb",
+                "Beef",
+                "Game",
+                "Spicy"
+            ]
+        },
+        "tastingNotesTags": [
+            "Smoke",
+            "Plum",
+            "Blackberry"
+        ],
+        "varieties": [
+            "Malbec",
+            "Merlot"
+        ],
+        "appellations": [
+            "Okanagan Valley"
+        ],
+        "regions": [
+            "Okanagan Falls (North Oliver)"
+        ],
+        "description": {
+            "html": "<p>Holy Smoke 2012 by Hidden Chapel lives up to its name, with a combination of Malbec (90%) and Merlot (10%) giving it a versatile quality. Smokey aromas lead to a palate of plum and blackberry flavours. This vintage goes great with game meats, lamb, beef, and spicy sauces.</p>\n",
+            "md": "Holy Smoke 2012 by Hidden Chapel lives up to its name, with a combination of Malbec (90%) and Merlot (10%) giving it a versatile quality. Smokey aromas lead to a palate of plum and blackberry flavours. This vintage goes great with game meats, lamb, beef, and spicy sauces."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/default-red-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/bottle/default-red-wine.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/default-red-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/banner/default-red-wine.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "hasPrice": true,
+        "priceRange": "$25-$35",
+        "sku": {
+            "bcSku": "",
+            "scc": "",
+            "upc": ""
+        },
+        "quantStyle": [],
+        "total_on_hand": 4,
+        "old_total_on_hand": 4,
+        "stock_count": {
+            "default": 4,
+            "other": 0
+        }
+    },
+    {
+        "id": 54449,
+        "price": "(TBD)",
+        "producer": "hiddenchapel",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "style": "Red",
+        "slug": "2012-shotgun-wedding",
+        "year": "2012",
+        "name": "Shotgun Wedding",
+        "searchName": "Shotgun Wedding",
+        "seoTitle": "Shotgun Wedding",
+        "seoDescription": "",
+        "volume": 750,
+        "awards": [],
+        "drinking": {
+            "bottleFormat": []
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [],
+        "typeOfGlass": [],
+        "pairings": {
+            "occasions": [],
+            "foods": [
+                "Grilled Meat",
+                "Aged Cheese",
+                "Rosemary",
+                "BBQ"
+            ]
+        },
+        "tastingNotesTags": [
+            "Blueberry",
+            "Blackberry",
+            "Chocolate",
+            "Coffee"
+        ],
+        "varieties": [],
+        "appellations": [],
+        "regions": [],
+        "description": {
+            "html": "<p>A marriage of red grapes, predominantly Cabernet Sauvignon with a touch of Petit Verdot.</p>\n",
+            "md": "A marriage of red grapes, predominantly Cabernet Sauvignon with a touch of Petit Verdot."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/default-red-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/bottle/default-red-wine.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/default-red-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/banner/default-red-wine.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "hasPrice": false,
+        "priceRange": "Below $25",
+        "sku": {
+            "bcSku": "",
+            "scc": "",
+            "upc": ""
+        },
+        "quantStyle": [],
+        "total_on_hand": 12,
+        "old_total_on_hand": 12,
+        "stock_count": {
+            "default": 12,
+            "other": 0
+        }
+    },
+    {
+        "id": 54448,
+        "price": "(TBD)",
+        "producer": "hiddenchapel",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "style": "Red",
+        "slug": "2011-nuns-on-the-run",
+        "year": "2011",
+        "name": "Nuns on the Run",
+        "searchName": "Nuns on the Run",
+        "seoTitle": "Nuns on the Run",
+        "seoDescription": "Our Nuns on the Run is a full bodied and voluptuous blend of Cabernet Sauvignon and Syrah",
+        "awards": [],
+        "drinking": {
+            "bottleFormat": []
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [],
+        "typeOfGlass": [],
+        "pairings": {
+            "occasions": [],
+            "foods": [
+                "Beef",
+                "Steak",
+                "Blue Cheese",
+                "Cheddar",
+                "Dessert"
+            ]
+        },
+        "tastingNotesTags": [
+            "Blackberry",
+            "Spice"
+        ],
+        "varieties": [],
+        "appellations": [],
+        "regions": [],
+        "description": {
+            "html": "<p>Our Nuns on the Run is a full bodied and voluptuous blend of Cabernet Sauvignon and Syrah.</p>\n",
+            "md": "Our Nuns on the Run is a full bodied and voluptuous blend of Cabernet Sauvignon and Syrah."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/default-red-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/bottle/default-red-wine.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/default-red-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/banner/default-red-wine.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "Hidden Chapel Winery",
+            "short": "Hidden Chapel"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "hasPrice": false,
+        "priceRange": "Below $25",
+        "sku": {
+            "bcSku": "",
+            "scc": "",
+            "upc": ""
+        },
+        "quantStyle": [],
+        "total_on_hand": 12,
+        "old_total_on_hand": 12,
+        "stock_count": {
+            "default": 12,
+            "other": 0
+        }
+    },
+    {
+        "id": 54442,
+        "price": 16.99,
+        "producer": "the-view",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "The View Winery",
+            "short": "The View"
+        },
+        "style": "White",
+        "slug": "2013-riesling-1",
+        "year": "2013",
+        "name": "Riesling",
+        "searchName": "",
+        "seoTitle": "Riesling",
+        "seoDescription": "The View, based in Kelowna, made the Riesling 2013. Flavours of tart key lime, green apple, and smooth minerality. Can be paired with pork loin and ham.",
+        "volume": 750,
+        "awards": [],
+        "drinking": {
+            "bottleFormat": [
+                "Standard"
+            ]
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [],
+        "typeOfGlass": [
+            "Riesling/Aromatics"
+        ],
+        "pairings": {
+            "occasions": [],
+            "foods": [
+                "Pork Loin",
+                "Roasted Vegetables"
+            ]
+        },
+        "tastingNotesTags": [
+            "Key Lime",
+            "Green Apple",
+            "Mineral"
+        ],
+        "varieties": [
+            "Riesling"
+        ],
+        "appellations": [
+            "Okanagan Valley"
+        ],
+        "regions": [
+            "Lake Erie North Shore"
+        ],
+        "description": {
+            "html": "<p>The View’s Riesling 2013 has a refreshing flavour profile consisting of tart key lime, green apple, and smooth minerality. This versatile Riesling vintage can be paired with a variety of dishes, including pork loin, ham and roast vegetables.</p>\n",
+            "md": "The View’s Riesling 2013 has a refreshing flavour profile consisting of tart key lime, green apple, and smooth minerality. This versatile Riesling vintage can be paired with a variety of dishes, including pork loin, ham and roast vegetables."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/default-white-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/bottle/default-white-wine.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/default-white-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/banner/default-white-wine.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "The View Winery",
+            "short": "The View"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "hasPrice": true,
+        "priceRange": "Below $25",
+        "sku": {
+            "bcSku": "560649",
+            "scc": "",
+            "upc": "626990188100"
+        },
+        "quantStyle": [],
+        "total_on_hand": 12,
+        "old_total_on_hand": 12,
+        "stock_count": {
+            "default": 12,
+            "other": 0
+        }
+    },
+    {
+        "id": 54440,
+        "price": 25.99,
+        "producer": "the-view",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "The View Winery",
+            "short": "The View"
+        },
+        "style": "Red",
+        "slug": "2014-pinotage-reserve",
+        "year": "2014",
+        "name": "Pinotage Reserve",
+        "searchName": "",
+        "seoTitle": "Pinotage Reserve",
+        "seoDescription": "The View, using the terroir of Kelowna, made the South African styled Pinotage Reserve 2014. Aromas of dark cherry and spice, with dark berry flavours.",
+        "awards": [],
+        "drinking": {
+            "bottleFormat": [
+                "Standard"
+            ]
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [],
+        "typeOfGlass": [
+            "Standard Red Wine"
+        ],
+        "pairings": {
+            "occasions": [],
+            "foods": []
+        },
+        "tastingNotesTags": [
+            "Smoke",
+            "Dark Fruit",
+            "Cherry",
+            "Raspberry",
+            "Spice"
+        ],
+        "varieties": [
+            "Pinotage"
+        ],
+        "appellations": [
+            "Okanagan Valley"
+        ],
+        "regions": [
+            "Lake Country (Kelowna)"
+        ],
+        "description": {
+            "html": "<p>The View’s Pinotage Reserve 2014 is inspired by South Africa&#39;s characterful Pinotage grape, which is a crossing of Pinot Noir and Cinsault. The nose bursts with dark cherry and spice, while the palate’s dark berry flavours complement firm tannins and bright acidity.</p>\n",
+            "md": "The View’s Pinotage Reserve 2014 is inspired by South Africa's characterful Pinotage grape, which is a crossing of Pinot Noir and Cinsault. The nose bursts with dark cherry and spice, while the palate’s dark berry flavours complement firm tannins and bright acidity."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/default-white-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/bottle/default-white-wine.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/default-white-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/banner/default-white-wine.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "The View Winery",
+            "short": "The View"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "hasPrice": true,
+        "priceRange": "$25-$35",
+        "sku": {
+            "bcSku": "443630",
+            "scc": "",
+            "upc": "626990168003"
+        },
+        "quantStyle": [],
+        "total_on_hand": 12,
+        "old_total_on_hand": 12,
+        "stock_count": {
+            "default": 12,
+            "other": 0
+        }
+    },
+    {
+        "id": 54439,
+        "price": "(TBD)",
+        "producer": "unsworth",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "Unsworth Vineyards",
+            "short": "Unsworth"
+        },
+        "style": "Red",
+        "slug": "2013-symphony",
+        "year": "2013",
+        "name": "Symphony",
+        "searchName": "",
+        "seoTitle": "Symphony",
+        "seoDescription": "Each year, our winemaker determines which fruit will support this premium red.  Our current vintage of Symphony, a robust and earthly red, is a blend of Petit Milo & Cabernet-Libre.  Aged for 18 months in once-used French oak, this elegant wine shows a heightened level of maturity with bright aromatic flavours of youthfulness.",
+        "volume": 750,
+        "awards": [],
+        "drinking": {
+            "bottleFormat": []
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [],
+        "typeOfGlass": [],
+        "pairings": {
+            "occasions": [],
+            "foods": [
+                "Meat",
+                "Cheese"
+            ]
+        },
+        "tastingNotesTags": [
+            "Cherry",
+            "Caramel",
+            "Vanilla",
+            "Fig",
+            "Cedar",
+            "Spice"
+        ],
+        "varieties": [],
+        "appellations": [],
+        "regions": [],
+        "description": {
+            "html": "<p>Each year, our winemaker determines which fruit will support this premium red.  Our current vintage of Symphony, a robust and earthly red, is a blend of Petit Milo &amp; Cabernet-Libre.  Aged for 18 months in once-used French oak, this elegant wine shows a heightened level of maturity with bright aromatic flavours of youthfulness.</p>\n",
+            "md": "Each year, our winemaker determines which fruit will support this premium red.  Our current vintage of Symphony, a robust and earthly red, is a blend of Petit Milo & Cabernet-Libre.  Aged for 18 months in once-used French oak, this elegant wine shows a heightened level of maturity with bright aromatic flavours of youthfulness."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/red-wine-unsworth-2013-symphony.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "filename": "red-wine-unsworth-2013-symphony.jpg",
+                    "originalname": "Unsworth - Symphony 2013.jpg",
+                    "path": "images/product/bottle/",
+                    "size": 2448850,
+                    "filetype": "image/jpeg",
+                    "url": "//s3-us-west-2.amazonaws.com/img.newdistrict.ca/images/product/bottle/red-wine-unsworth-2013-symphony.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/red-wine-unsworth-2013-symphony.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "filename": "red-wine-unsworth-2013-symphony.jpg",
+                    "originalname": "Unsworth - Symphony 2013.jpg",
+                    "path": "images/product/banner/",
+                    "size": 2448850,
+                    "filetype": "image/jpeg",
+                    "url": "//s3-us-west-2.amazonaws.com/img.newdistrict.ca/images/product/banner/red-wine-unsworth-2013-symphony.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "Unsworth Vineyards",
+            "short": "Unsworth"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "hasPrice": false,
+        "priceRange": "Below $25",
+        "sku": {
+            "bcSku": "643916",
+            "scc": "",
+            "upc": "626990203001"
+        },
+        "quantStyle": [],
+        "total_on_hand": 12,
+        "old_total_on_hand": 12,
+        "stock_count": {
+            "default": 12,
+            "other": 0
+        }
+    },
+    {
+        "id": 54437,
+        "price": 15.99,
+        "producer": "the-view",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "The View Winery",
+            "short": "The View"
+        },
+        "style": "White",
+        "slug": "2014-gewurztraminer-2",
+        "year": "2014",
+        "name": "Gewürztraminer",
+        "searchName": "Gewurztraminer",
+        "seoTitle": "Gewürztraminer",
+        "seoDescription": "Kelowna’s The View made the aromatic, fresh and crisp Gewurztraminer 2014. Nose of melon, florals, and vanilla. Tropical fruit, peach, and spice palate.",
+        "awards": [],
+        "drinking": {
+            "bottleFormat": [
+                "Standard"
+            ]
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": []
+        },
+        "tags": [],
+        "typeOfGlass": [
+            "Standard White Wine"
+        ],
+        "pairings": {
+            "occasions": [],
+            "foods": []
+        },
+        "tastingNotesTags": [
+            "Melon",
+            "Rose Petals",
+            "Vanilla",
+            "Orchid",
+            "Tropical Fruit",
+            "White Peach",
+            "Spice"
+        ],
+        "varieties": [
+            "Gewurztraminer"
+        ],
+        "appellations": [
+            "Okanagan Valley"
+        ],
+        "regions": [
+            "Lake Country (Kelowna)"
+        ],
+        "description": {
+            "html": "<p>Aromatic, fresh and crisp, The View’s Gewurztraminer 2014 has a nose of melon, Turkish delight, and vanilla orchid. The complex palate features tropical fruit, peach and spice, with a lasting dry finish.</p>\n",
+            "md": "Aromatic, fresh and crisp, The View’s Gewurztraminer 2014 has a nose of melon, Turkish delight, and vanilla orchid. The complex palate features tropical fruit, peach and spice, with a lasting dry finish."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/default-white-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/bottle/default-white-wine.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/default-white-wine.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "url": "//s3.amazonaws.com/img.newdistrict.ca/images/product/banner/default-white-wine.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "The View Winery",
+            "short": "The View"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "sweetness": "Off-Dry",
+            "options": []
+        },
+        "quantity": {
+            "abv": 13.4,
+            "rs": 8.32,
+            "ta": 7.84
+        },
+        "hasPrice": true,
+        "priceRange": "Below $25",
+        "abv": "ABV over 13%",
+        "sku": {
+            "bcSku": "895862",
+            "scc": "",
+            "upc": "626990226772"
+        },
+        "titratableAcidity": "Titratable Acidity above 5",
+        "residualSugar": "Residual Sugar above 1",
+        "quantStyle": [
+            "ABV over 13%",
+            "Titratable Acidity above 5",
+            "Residual Sugar above 1"
+        ],
+        "total_on_hand": 44,
+        "old_total_on_hand": 44,
+        "stock_count": {
+            "default": 44,
+            "other": 0
+        }
+    },
+    {
+        "id": 54436,
+        "price": 24.99,
+        "producer": "eauvivre",
+        "byTheBottle": false,
+        "producerName": {
+            "long": "Eau Vivre Winery & Vineyards",
+            "short": "Eau Vivre"
+        },
+        "style": "Red",
+        "slug": "2013-malbec",
+        "year": "2013",
+        "name": "Malbec",
+        "searchName": "",
+        "seoTitle": "Malbec",
+        "seoDescription": "Cawston’s Eau Vivre used American and French oak barrelling to make the Malbec 2013. The palate starts with plum and blackberry, and ends with black pepper.",
+        "awards": [],
+        "drinking": {
+            "bottleFormat": [
+                "Standard"
+            ]
+        },
+        "wineMaking": {
+            "maturation": [],
+            "fermentation": [
+                "American Oak Barrel",
+                "French Oak Barrel"
+            ]
+        },
+        "tags": [],
+        "typeOfGlass": [
+            "Standard Red Wine"
+        ],
+        "pairings": {
+            "occasions": [],
+            "foods": []
+        },
+        "tastingNotesTags": [
+            "Plum",
+            "Blackberry",
+            "Cola",
+            "Cedar",
+            "Leather",
+            "Black Pepper"
+        ],
+        "varieties": [
+            "Malbec"
+        ],
+        "appellations": [
+            "Similkameen Valley"
+        ],
+        "regions": [
+            "Similkameen Valley"
+        ],
+        "description": {
+            "html": "<p>American and French oak barrelling give this Malbec 2013 by Eau Vivre character and depth. Aromas of cola, cedar, and leather translate to the palate that starts with plum and blackberry, and ends black pepper on a long finish.</p>\n",
+            "md": "American and French oak barrelling give this Malbec 2013 by Eau Vivre character and depth. Aromas of cola, cedar, and leather translate to the palate that starts with plum and blackberry, and ends black pepper on a long finish."
+        },
+        "featured": false,
+        "isSoldOut": false,
+        "images": {
+            "bottle": {
+                "url": "https://img.newdistrict.ca/images/product/bottle/red-wine-eauvivre-2013-malbec.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "filename": "red-wine-eauvivre-2013-malbec.jpg",
+                    "originalname": "Eau Vivre - Malbec 2013.jpg",
+                    "path": "images/product/bottle/",
+                    "size": 1318599,
+                    "filetype": "image/jpeg",
+                    "url": "//s3-us-west-2.amazonaws.com/img.newdistrict.ca/images/product/bottle/red-wine-eauvivre-2013-malbec.jpg"
+                }
+            },
+            "banner": {
+                "url": "https://img.newdistrict.ca/images/product/banner/red-wine-eauvivre-2013-malbec.jpg",
+                "altTag": "",
+                "titleTag": "",
+                "file": {
+                    "filename": "red-wine-eauvivre-2013-malbec.jpg",
+                    "originalname": "Eau Vivre - Malbec 2013.jpg",
+                    "path": "images/product/banner/",
+                    "size": 1318599,
+                    "filetype": "image/jpeg",
+                    "url": "//s3-us-west-2.amazonaws.com/img.newdistrict.ca/images/product/banner/red-wine-eauvivre-2013-malbec.jpg"
+                }
+            }
+        },
+        "wineryName": {
+            "long": "Eau Vivre Winery & Vineyards",
+            "short": "Eau Vivre"
+        },
+        "type": "wine",
+        "taste": {
+            "aromatic": false,
+            "options": []
+        },
+        "quantity": {
+            "abv": 13.5,
+            "ph": 3.8,
+            "rs": 1.8,
+            "ta": 6.1
+        },
+        "hasPrice": true,
+        "priceRange": "Below $25",
+        "abv": "ABV over 13%",
+        "sku": {
+            "bcSku": "471953",
+            "scc": "",
+            "upc": ""
+        },
+        "ph": "Ph level above 2",
+        "titratableAcidity": "Titratable Acidity above 5",
+        "residualSugar": "Residual Sugar above 1",
+        "quantStyle": [
+            "ABV over 13%",
+            "Ph level above 2",
+            "Titratable Acidity above 5",
+            "Residual Sugar above 1"
+        ],
+        "total_on_hand": 10,
+        "old_total_on_hand": 10,
+        "stock_count": {
+            "default": 10,
+            "other": 0
+        }
+    }
+]
