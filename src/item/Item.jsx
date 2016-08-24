@@ -34,6 +34,9 @@ class Item extends Component {
 	render() {
 		return (
 			<div className="Item">
+				<div className="Item__badge">
+					{this.props.id}.
+				</div>
 				<div className="Item__graphic">
 					<Graphic src={this.props.wine.images.bottle} />
 				</div>
@@ -48,7 +51,7 @@ class Item extends Component {
 						<div className="Item__location">{this.props.wine.wineryName.long}</div>
 					</div>
 					<div className="Item__details">
-						<div className="Item__price">
+						<div className="Item__price" title="Price per bottle">
 							{this.getPrice(this.props.wine.price).dollars}
 							<div className="Item__price-cents">
 								{this.getPrice(this.props.wine.price).cents}

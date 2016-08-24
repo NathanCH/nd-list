@@ -10,7 +10,7 @@ class List extends Component {
 			<ul className="List">
 				{this.props.wines.map((wine, key) => {
 					return(
-						<ListItem wine={wine} key={key} />
+						<ListItem id={key + 1} wine={wine} key={key} />
 					);
 				})}
 			</ul>

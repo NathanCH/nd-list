@@ -15,7 +15,7 @@ class Graphic extends Component {
 			backgroundImage: 'url('+this.displayGraphic()+')'
 		};
 		return (
-			<div className="Graphic" style={styles}></div>
+			<div className="Graphic" title="Wine bottle graphic" style={styles}></div>
 		)
 	}
 }

@@ -8,7 +8,7 @@ class ListItem extends Component {
 	render() {
 		return (
 			<li className="List__item">
-				<Item wine={this.props.wine} />
+				<Item id={this.props.id} wine={this.props.wine} />
 			</li>
 		)
 	}

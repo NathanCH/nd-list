@@ -24,7 +24,7 @@ class App extends Component{
 		return (
 			<div className="App">
 				<div className="App__title">
-					Wines
+					Top Wines
 				</div>
 				<List wines={this.state.data} />
 			</div>
