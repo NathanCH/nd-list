@@ -1,0 +1,49 @@
+@import "../shared/variables";
+
+.Menu{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+
+	&__item{
+		display: inline-block;
+		border-top: 1px solid $color-border;
+		width: 100%;
+		padding: 20px 15px;
+		font-size: 15px;
+		font-weight: 500;
+		cursor: pointer;
+
+		@media (max-width: $break-md) {
+			padding: 25px;
+			font-size: 18px;
+		}
+
+		&--inline{
+			border-right: 1px solid $color-border;
+			width: 50%;
+		}
+
+		&--inline:last-child{
+			border-right: none;
+		}
+
+		&:hover{
+			.Menu__icon{
+				color: $color-body;
+			}
+		}
+
+		&--active{
+			.Menu__icon{
+				color: $color-primary;
+			}
+		}
+	}
+
+	&__icon{
+		font-size: 20px;
+		float: right;
+		color: #ccc;
+	}
+}

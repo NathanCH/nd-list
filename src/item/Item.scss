@@ -1,0 +1,144 @@
+@import "../shared/variables";
+
+.Item{
+	display: flex;
+	flex-direction: row;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,.15);
+
+		@media (max-width: $break-md) {
+			flex-direction: column;
+		}
+
+	/* Structure */
+	&__graphic{
+		width: 300px;
+		align-items: stretch;
+
+		@media (max-width: $break-md) {
+			width: 100%;
+			height: 500px;
+		}
+
+		@media (max-width: $break-sm) {
+			width: 100%;
+			height: 350px;
+		}
+	}
+
+	&__container{
+		width: 100%;
+		min-height: 300px;
+		flex-grow: 1;
+		display: flex;
+
+		@media (max-width: $break-lg) {
+			flex-direction: column;
+		}
+	}
+
+	&__content{
+		width: 100%;
+		padding: 15px 25px;
+		border-left: 1px solid $color-border;
+	}
+
+	&__details{
+		width: 325px;
+		border-left: 1px solid $color-border;
+		position: relative;
+
+		@media (max-width: $break-lg) {
+			width: 100%;
+			flex-grow: 1;
+		}
+	}
+
+	&__name{
+		font-size: 36px;
+		font-weight: 800;
+		line-height: 48px;
+		color: inherit;
+		text-decoration: none;
+
+		&:hover{
+			text-decoration: underline;
+		}
+	}
+
+	&__meta{
+		padding: 0;
+		margin: 0 0 25px;
+		list-style: none;
+		line-height: 32px;
+		font-weight: 500;
+
+		&-item{
+			display: inline-block;
+
+			&:after{
+				content: "|";
+				padding: 0 15px;
+			}
+
+			&:last-child:after{
+				content: "";
+			}
+		}
+	}
+
+	&__description{
+		@media (max-width: $break-md) {
+			display: none;
+		}
+	}
+
+	&__location{
+		margin: 25px 0 0 0;
+		font-weight: 500;
+
+		@media (max-width: $break-md) {
+			display: none;
+		}
+	}
+
+	&__price{
+		padding: 15px 25px;
+		font-size: 54px;
+		line-height: 62px;
+		font-family: "Oswald";
+		position: relative;
+
+		@media (max-width: $break-lg) {
+			text-align: right;
+		}
+
+		@media (max-width: $break-md) {
+			text-align: center;
+			padding: 0 0 10px 0;
+			font-size: 74px;
+		}
+
+		&-cents{
+			font-size: 20px;
+			display: inline-block;
+			position: absolute;
+			top: 2px;
+		}
+
+		&:after{
+			content: "/bottle";
+			font-size: 15px;
+		}
+	}
+
+	&__menu{
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+
+		@media (max-width: $break-lg) {
+			position: relative;
+		}
+	}
+}

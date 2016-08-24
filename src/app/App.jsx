@@ -23,6 +23,9 @@ class App extends Component{
 	render() {
 		return (
 			<div className="App">
+				<div className="App__title">
+					Wines
+				</div>
 				<List wines={this.state.data} />
 			</div>
 		);

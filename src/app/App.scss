@@ -1,3 +1,15 @@
+@import '../shared/variables.scss';
+
 .App{
-	color: red;
+	margin: 0 auto;
+	max-width: 1100px;
+	min-width: 280px;
+
+	&__title{
+		border-bottom: 2px solid #eee;
+		padding: 20px 0;
+		text-transform: uppercase;
+		font-size: 18px;
+		font-weight: 500;
+	}
 }

@@ -1,0 +1,11 @@
+.List{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	animation: fadein 1s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}

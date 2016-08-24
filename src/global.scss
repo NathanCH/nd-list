@@ -1,0 +1,16 @@
+@import "~normalize.css/normalize.css";
+@import "./shared/variables";
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 25px;
+	background: white;
+	color: $color-body;
+	font-family: $font-family;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 22px;
+}
